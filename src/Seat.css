@@ -1,0 +1,20 @@
+.seat {
+  width: 10px;
+  height: 10px;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+.hidden {
+  visibility: hidden;
+  border: 0px;
+}
+
+.occupied {
+  background-color: darkslategray;
+}
+
+.selected{
+  background-color: green;
+}
